@@ -1,7 +1,7 @@
 # NG Epic Design System
-Hi there, NG Epic Design System is open souce UI-KIT for Angular lovers based on Bootcatch Epic Theme thanks :)
+NG Epic Design System is open souce UI-KIT for Angular lovers based on Bootcatch Epic Theme thanks :)
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/ng-epic-design-system.svg)](https://www.npmjs.com/package/ng-epic-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-epic-design-system.svg)](https://www.npmjs.com/package/ng-epic-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -18,15 +18,13 @@ Hi there, NG Epic Design System is open souce UI-KIT for Angular lovers based on
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-epic-design-system --save
+
+OR
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/ng-epic-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage
