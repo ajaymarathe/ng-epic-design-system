@@ -1,7 +1,7 @@
 {
   "name": "ng-epic-design-system",
-  "version": "0.0.3",
-  "description": "NG Epic Design System is open souce UI-KIT for Angular lovers based on Bootcatch Epic Theme thanks :)",
+  "version": "0.0.4",
+  "description": "NG Epic Design System is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,9 +22,11 @@
     "free",
     "uikit",
     "uikit-components",
-    "epic-uikit"
+    "epic-uikit",
+    "angular-design-system",
+    "bootstrap-design-system"
   ],
-  "author": "Ajay Marathe <0107amar@gmail.com> (http://bootcatch.com/lightly)",
+  "author": "Ajay Marathe <0107amar@gmail.com> (http://bootcatch.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ajaymarathe/ng-epic-design-system/issues"
