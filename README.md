@@ -1,5 +1,5 @@
 # NG Epic Design System
-NG Epic Design System is  is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
+NG Epic Design System is  is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x (Bootcatch-themes).
 
 [![NPM](https://img.shields.io/npm/v/ng-epic-design-system.svg)](https://www.npmjs.com/package/ng-epic-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-epic-design-system.svg)](https://www.npmjs.com/package/ng-epic-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
